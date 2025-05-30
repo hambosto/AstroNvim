@@ -14,6 +14,5 @@ return {
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.indent.snacks-indent-hlchunk" },
-  { import = "astrocommunity.colorscheme.nord-nvim" },
   -- import/override with your plugins folder
 }
